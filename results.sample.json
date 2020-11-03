@@ -1,0 +1,3115 @@
+{
+    "data": [
+        {
+            "search_string": "Australian Capital Territory, Australia",
+            "requested_place_count": 6,
+            "actual_place_count": 6,
+            "resolved_name": "Australian Capital Territory",
+            "bb_lat_1": -35.84772894999994,
+            "bb_lat_2": -35.12972894999994,
+            "bb_lon_1": 148.64392127300007,
+            "bb_lon_2": 149.3619212730001,
+            "places": [
+                {
+                    "name": "Macarthur",
+                    "lat": "-35.40885",
+                    "lon": "149.12696"
+                },
+                {
+                    "name": "Macquarie",
+                    "lat": "-35.25126",
+                    "lon": "149.06363"
+                },
+                {
+                    "name": "Canberra",
+                    "lat": "-35.28346",
+                    "lon": "149.12807"
+                },
+                {
+                    "name": "Belconnen",
+                    "lat": "-35.21667",
+                    "lon": "149.08333"
+                },
+                {
+                    "name": "Kaleen",
+                    "lat": "-35.21814",
+                    "lon": "149.10516"
+                },
+                {
+                    "name": "Forrest",
+                    "lat": "-35.31499",
+                    "lon": "149.12859"
+                }
+            ]
+        },
+        {
+            "search_string": "New South Wales, Australia",
+            "requested_place_count": 200,
+            "actual_place_count": 200,
+            "resolved_name": "New South Wales",
+            "bb_lat_1": -39.02702487599995,
+            "bb_lat_2": -25.29902487599995,
+            "bb_lon_1": 140.1534365580001,
+            "bb_lon_2": 153.8814365580001,
+            "places": [
+                {
+                    "name": "Enmore",
+                    "lat": "-30.73333",
+                    "lon": "151.8"
+                },
+                {
+                    "name": "Bundeena",
+                    "lat": "-34.08384",
+                    "lon": "151.15016"
+                },
+                {
+                    "name": "Harrington",
+                    "lat": "-31.87227",
+                    "lon": "152.69174"
+                },
+                {
+                    "name": "Boggabilla",
+                    "lat": "-28.60477",
+                    "lon": "150.35934"
+                },
+                {
+                    "name": "Eden",
+                    "lat": "-37.06322",
+                    "lon": "149.90401"
+                },
+                {
+                    "name": "Crescent Head",
+                    "lat": "-31.1887",
+                    "lon": "152.97301"
+                },
+                {
+                    "name": "Coolamon",
+                    "lat": "-34.81641",
+                    "lon": "147.19577"
+                },
+                {
+                    "name": "Denman",
+                    "lat": "-32.38788",
+                    "lon": "150.68935"
+                },
+                {
+                    "name": "Lightning Ridge",
+                    "lat": "-29.42743",
+                    "lon": "147.97865"
+                },
+                {
+                    "name": "Oberon",
+                    "lat": "-33.70398",
+                    "lon": "149.85915"
+                },
+                {
+                    "name": "Nyngan",
+                    "lat": "-31.56088",
+                    "lon": "147.18816"
+                },
+                {
+                    "name": "Bellingen",
+                    "lat": "-30.45294",
+                    "lon": "152.89911"
+                },
+                {
+                    "name": "Cooma",
+                    "lat": "-36.23517",
+                    "lon": "149.12408"
+                },
+                {
+                    "name": "Narooma",
+                    "lat": "-36.22101",
+                    "lon": "150.13062"
+                },
+                {
+                    "name": "Gerringong",
+                    "lat": "-34.74702",
+                    "lon": "150.82809"
+                },
+                {
+                    "name": "Broken Hill",
+                    "lat": "-31.96173",
+                    "lon": "141.45998"
+                },
+                {
+                    "name": "Bermagui",
+                    "lat": "-36.419",
+                    "lon": "150.06355"
+                },
+                {
+                    "name": "Kiama",
+                    "lat": "-34.66828",
+                    "lon": "150.85219"
+                },
+                {
+                    "name": "Manilla",
+                    "lat": "-30.74748",
+                    "lon": "150.71974"
+                },
+                {
+                    "name": "Bingara",
+                    "lat": "-29.86931",
+                    "lon": "150.57204"
+                },
+                {
+                    "name": "Bourke",
+                    "lat": "-30.09011",
+                    "lon": "145.93646"
+                },
+                {
+                    "name": "Gol Gol",
+                    "lat": "-34.18056",
+                    "lon": "142.2265"
+                },
+                {
+                    "name": "Port Macquarie",
+                    "lat": "-31.43084",
+                    "lon": "152.90894"
+                },
+                {
+                    "name": "Henty",
+                    "lat": "-35.51745",
+                    "lon": "147.03716"
+                },
+                {
+                    "name": "Gordon",
+                    "lat": "-29.3",
+                    "lon": "152.71667"
+                },
+                {
+                    "name": "Brewarrina",
+                    "lat": "-29.96067",
+                    "lon": "146.85986"
+                },
+                {
+                    "name": "Lake Cargelligo",
+                    "lat": "-33.29868",
+                    "lon": "146.37386"
+                },
+                {
+                    "name": "Holbrook",
+                    "lat": "-35.72189",
+                    "lon": "147.31387"
+                },
+                {
+                    "name": "Cobar",
+                    "lat": "-31.49873",
+                    "lon": "145.84183"
+                },
+                {
+                    "name": "Molong",
+                    "lat": "-33.09233",
+                    "lon": "148.87002"
+                },
+                {
+                    "name": "Ulladulla",
+                    "lat": "-35.35906",
+                    "lon": "150.47247"
+                },
+                {
+                    "name": "Bombala",
+                    "lat": "-36.91212",
+                    "lon": "149.23669"
+                },
+                {
+                    "name": "Burringbar",
+                    "lat": "-28.4358",
+                    "lon": "153.47324"
+                },
+                {
+                    "name": "Merimbula",
+                    "lat": "-36.88901",
+                    "lon": "149.90961"
+                },
+                {
+                    "name": "Dover Heights",
+                    "lat": "-33.87083",
+                    "lon": "151.27917"
+                },
+                {
+                    "name": "Quirindi",
+                    "lat": "-31.50763",
+                    "lon": "150.67902"
+                },
+                {
+                    "name": "Hay",
+                    "lat": "-34.50429",
+                    "lon": "144.84474"
+                },
+                {
+                    "name": "Narrabri",
+                    "lat": "-30.32612",
+                    "lon": "149.78371"
+                },
+                {
+                    "name": "Condobolin",
+                    "lat": "-33.08805",
+                    "lon": "147.14514"
+                },
+                {
+                    "name": "Narrandera",
+                    "lat": "-34.74752",
+                    "lon": "146.55096"
+                },
+                {
+                    "name": "Woolgoolga",
+                    "lat": "-30.11058",
+                    "lon": "153.20067"
+                },
+                {
+                    "name": "Berridale",
+                    "lat": "-36.36565",
+                    "lon": "148.82677"
+                },
+                {
+                    "name": "Katoomba",
+                    "lat": "-33.71977",
+                    "lon": "150.30739"
+                },
+                {
+                    "name": "Anna Bay",
+                    "lat": "-32.78135",
+                    "lon": "152.08586"
+                },
+                {
+                    "name": "West Wyalong",
+                    "lat": "-33.92373",
+                    "lon": "147.20473"
+                },
+                {
+                    "name": "Deniliquin",
+                    "lat": "-35.52741",
+                    "lon": "144.95958"
+                },
+                {
+                    "name": "Malabar",
+                    "lat": "-33.96216",
+                    "lon": "151.24796"
+                },
+                {
+                    "name": "North Haven",
+                    "lat": "-31.6368",
+                    "lon": "152.81357"
+                },
+                {
+                    "name": "Glen Innes",
+                    "lat": "-29.73485",
+                    "lon": "151.7385"
+                },
+                {
+                    "name": "Jindabyne",
+                    "lat": "-36.41623",
+                    "lon": "148.62505"
+                },
+                {
+                    "name": "Inverell",
+                    "lat": "-29.77403",
+                    "lon": "151.11166"
+                },
+                {
+                    "name": "Coonabarabran",
+                    "lat": "-31.27734",
+                    "lon": "149.27904"
+                },
+                {
+                    "name": "Dorrigo",
+                    "lat": "-30.34112",
+                    "lon": "152.71394"
+                },
+                {
+                    "name": "Forresters Beach",
+                    "lat": "-33.407",
+                    "lon": "151.476"
+                },
+                {
+                    "name": "Moree",
+                    "lat": "-29.46278",
+                    "lon": "149.84157"
+                },
+                {
+                    "name": "Nelson Bay",
+                    "lat": "-32.72043",
+                    "lon": "152.14398"
+                },
+                {
+                    "name": "Nambucca Heads",
+                    "lat": "-30.64318",
+                    "lon": "153.00884"
+                },
+                {
+                    "name": "Merriwa",
+                    "lat": "-32.13922",
+                    "lon": "150.35562"
+                },
+                {
+                    "name": "Point Clare",
+                    "lat": "-33.44378",
+                    "lon": "151.32732"
+                },
+                {
+                    "name": "Hillston",
+                    "lat": "-33.48094",
+                    "lon": "145.53435"
+                },
+                {
+                    "name": "Hawks Nest",
+                    "lat": "-32.66755",
+                    "lon": "152.17831"
+                },
+                {
+                    "name": "Gilgandra",
+                    "lat": "-31.71173",
+                    "lon": "148.66252"
+                },
+                {
+                    "name": "Moruya",
+                    "lat": "-35.9125",
+                    "lon": "150.08144"
+                },
+                {
+                    "name": "Dareton",
+                    "lat": "-34.09468",
+                    "lon": "142.03966"
+                },
+                {
+                    "name": "Colo Vale",
+                    "lat": "-34.40095",
+                    "lon": "150.48573"
+                },
+                {
+                    "name": "Darlington Point",
+                    "lat": "-34.56942",
+                    "lon": "145.9987"
+                },
+                {
+                    "name": "Richmond",
+                    "lat": "-33.59956",
+                    "lon": "150.75142"
+                },
+                {
+                    "name": "Yass",
+                    "lat": "-34.84036",
+                    "lon": "148.90987"
+                },
+                {
+                    "name": "Finley",
+                    "lat": "-35.64904",
+                    "lon": "145.57704"
+                },
+                {
+                    "name": "Broulee",
+                    "lat": "-35.85469",
+                    "lon": "150.17392"
+                },
+                {
+                    "name": "Forbes",
+                    "lat": "-33.38436",
+                    "lon": "148.0076"
+                },
+                {
+                    "name": "Berrigan",
+                    "lat": "-35.65879",
+                    "lon": "145.81145"
+                },
+                {
+                    "name": "Moonee Beach",
+                    "lat": "-30.20575",
+                    "lon": "153.15293"
+                },
+                {
+                    "name": "Coonamble",
+                    "lat": "-30.95389",
+                    "lon": "148.38881"
+                },
+                {
+                    "name": "Carrolls Creek",
+                    "lat": "-28.82272",
+                    "lon": "152.10305"
+                },
+                {
+                    "name": "Maclean",
+                    "lat": "-29.4581",
+                    "lon": "153.19753"
+                },
+                {
+                    "name": "Gulgong",
+                    "lat": "-32.36253",
+                    "lon": "149.53201"
+                },
+                {
+                    "name": "Greenwell Point",
+                    "lat": "-34.90746",
+                    "lon": "150.73311"
+                },
+                {
+                    "name": "Forster",
+                    "lat": "-32.18136",
+                    "lon": "152.51715"
+                },
+                {
+                    "name": "Tumut",
+                    "lat": "-35.30016",
+                    "lon": "148.22505"
+                },
+                {
+                    "name": "Milton",
+                    "lat": "-35.31644",
+                    "lon": "150.4361"
+                },
+                {
+                    "name": "Orange",
+                    "lat": "-33.28397",
+                    "lon": "149.10018"
+                },
+                {
+                    "name": "Evans Head",
+                    "lat": "-29.11777",
+                    "lon": "153.43072"
+                },
+                {
+                    "name": "Grenfell",
+                    "lat": "-33.89549",
+                    "lon": "148.16438"
+                },
+                {
+                    "name": "Singleton",
+                    "lat": "-32.56742",
+                    "lon": "151.16603"
+                },
+                {
+                    "name": "Gunnedah",
+                    "lat": "-30.98065",
+                    "lon": "150.25838"
+                },
+                {
+                    "name": "Coutts Crossing",
+                    "lat": "-29.82619",
+                    "lon": "152.89156"
+                },
+                {
+                    "name": "Casino",
+                    "lat": "-28.85819",
+                    "lon": "153.04748"
+                },
+                {
+                    "name": "Boggabri",
+                    "lat": "-30.70953",
+                    "lon": "150.04121"
+                },
+                {
+                    "name": "Dunedoo",
+                    "lat": "-32.01634",
+                    "lon": "149.3871"
+                },
+                {
+                    "name": "Goulburn",
+                    "lat": "-34.75155",
+                    "lon": "149.72086"
+                },
+                {
+                    "name": "Phillip",
+                    "lat": "-31.13333",
+                    "lon": "150.85"
+                },
+                {
+                    "name": "Muswellbrook",
+                    "lat": "-32.26118",
+                    "lon": "150.89009"
+                },
+                {
+                    "name": "Clarence Town",
+                    "lat": "-32.58395",
+                    "lon": "151.77757"
+                },
+                {
+                    "name": "Bungendore",
+                    "lat": "-35.25382",
+                    "lon": "149.44007"
+                },
+                {
+                    "name": "Shellharbour Village",
+                    "lat": "-34.58333",
+                    "lon": "150.86667"
+                },
+                {
+                    "name": "Narromine",
+                    "lat": "-32.23121",
+                    "lon": "148.24052"
+                },
+                {
+                    "name": "Falls Creek",
+                    "lat": "-34.96667",
+                    "lon": "150.6"
+                },
+                {
+                    "name": "Braidwood",
+                    "lat": "-35.44148",
+                    "lon": "149.7998"
+                },
+                {
+                    "name": "Bega",
+                    "lat": "-36.67392",
+                    "lon": "149.84178"
+                },
+                {
+                    "name": "Nambucca",
+                    "lat": "-30.63333",
+                    "lon": "152.98333"
+                },
+                {
+                    "name": "Taree",
+                    "lat": "-31.91099",
+                    "lon": "152.45387"
+                },
+                {
+                    "name": "Peak Hill",
+                    "lat": "-32.72387",
+                    "lon": "148.19052"
+                },
+                {
+                    "name": "Griffith",
+                    "lat": "-34.28853",
+                    "lon": "146.05093"
+                },
+                {
+                    "name": "Cootamundra",
+                    "lat": "-34.64095",
+                    "lon": "148.02838"
+                },
+                {
+                    "name": "North Bondi",
+                    "lat": "-33.88533",
+                    "lon": "151.27522"
+                },
+                {
+                    "name": "Guyra",
+                    "lat": "-30.21674",
+                    "lon": "151.67444"
+                },
+                {
+                    "name": "Dungog",
+                    "lat": "-32.40032",
+                    "lon": "151.75758"
+                },
+                {
+                    "name": "Macmasters Beach",
+                    "lat": "-33.49663",
+                    "lon": "151.42215"
+                },
+                {
+                    "name": "Kempsey",
+                    "lat": "-31.07898",
+                    "lon": "152.83093"
+                },
+                {
+                    "name": "Noraville",
+                    "lat": "-33.26785",
+                    "lon": "151.55352"
+                },
+                {
+                    "name": "Eglinton",
+                    "lat": "-33.37731",
+                    "lon": "149.54654"
+                },
+                {
+                    "name": "Sawtell",
+                    "lat": "-30.36459",
+                    "lon": "153.10141"
+                },
+                {
+                    "name": "Boorowa",
+                    "lat": "-34.43661",
+                    "lon": "148.71634"
+                },
+                {
+                    "name": "Junee",
+                    "lat": "-34.86819",
+                    "lon": "147.58273"
+                },
+                {
+                    "name": "Portland",
+                    "lat": "-33.35709",
+                    "lon": "149.98148"
+                },
+                {
+                    "name": "Cowra",
+                    "lat": "-33.83554",
+                    "lon": "148.69663"
+                },
+                {
+                    "name": "Howlong",
+                    "lat": "-35.97918",
+                    "lon": "146.62514"
+                },
+                {
+                    "name": "Beaumont Hills",
+                    "lat": "-33.69993",
+                    "lon": "150.9411"
+                },
+                {
+                    "name": "Parkes",
+                    "lat": "-33.1372",
+                    "lon": "148.1759"
+                },
+                {
+                    "name": "Forest Hill",
+                    "lat": "-35.1481",
+                    "lon": "147.46707"
+                },
+                {
+                    "name": "Blayney",
+                    "lat": "-33.53233",
+                    "lon": "149.25367"
+                },
+                {
+                    "name": "Kandos",
+                    "lat": "-32.85772",
+                    "lon": "149.96832"
+                },
+                {
+                    "name": "Wellington",
+                    "lat": "-32.55588",
+                    "lon": "148.94508"
+                },
+                {
+                    "name": "Kelso",
+                    "lat": "-33.41667",
+                    "lon": "149.6"
+                },
+                {
+                    "name": "Kendall",
+                    "lat": "-31.63295",
+                    "lon": "152.70393"
+                },
+                {
+                    "name": "Port Stephens",
+                    "lat": "-32.71314",
+                    "lon": "152.06623"
+                },
+                {
+                    "name": "Jindera",
+                    "lat": "-35.95474",
+                    "lon": "146.88852"
+                },
+                {
+                    "name": "Kangaroo Valley",
+                    "lat": "-34.73806",
+                    "lon": "150.53657"
+                },
+                {
+                    "name": "Moss Vale",
+                    "lat": "-34.55374",
+                    "lon": "150.37115"
+                },
+                {
+                    "name": "Crookwell",
+                    "lat": "-34.45925",
+                    "lon": "149.47137"
+                },
+                {
+                    "name": "Macksville",
+                    "lat": "-30.7078",
+                    "lon": "152.92029"
+                },
+                {
+                    "name": "Murrumbateman",
+                    "lat": "-34.97199",
+                    "lon": "149.02985"
+                },
+                {
+                    "name": "Perthville",
+                    "lat": "-33.48741",
+                    "lon": "149.54642"
+                },
+                {
+                    "name": "Lavington",
+                    "lat": "-36.05",
+                    "lon": "146.93333"
+                },
+                {
+                    "name": "Frederickton",
+                    "lat": "-31.03749",
+                    "lon": "152.8753"
+                },
+                {
+                    "name": "Culcairn",
+                    "lat": "-35.66669",
+                    "lon": "147.03845"
+                },
+                {
+                    "name": "Kootingal",
+                    "lat": "-31.05857",
+                    "lon": "151.0535"
+                },
+                {
+                    "name": "Lismore",
+                    "lat": "-28.81354",
+                    "lon": "153.2773"
+                },
+                {
+                    "name": "Gloucester",
+                    "lat": "-32.0077",
+                    "lon": "151.9633"
+                },
+                {
+                    "name": "Old Bar",
+                    "lat": "-31.9694",
+                    "lon": "152.58807"
+                },
+                {
+                    "name": "Moama",
+                    "lat": "-36.1136",
+                    "lon": "144.75648"
+                },
+                {
+                    "name": "Eulomogo",
+                    "lat": "-32.26667",
+                    "lon": "148.68333"
+                },
+                {
+                    "name": "Gundaroo",
+                    "lat": "-35.03333",
+                    "lon": "149.25"
+                },
+                {
+                    "name": "Ballina",
+                    "lat": "-28.86414",
+                    "lon": "153.56541"
+                },
+                {
+                    "name": "South Tamworth",
+                    "lat": "-31.11",
+                    "lon": "150.92254"
+                },
+                {
+                    "name": "Canowindra",
+                    "lat": "-33.56247",
+                    "lon": "148.66434"
+                },
+                {
+                    "name": "Cobbitty",
+                    "lat": "-34.01592",
+                    "lon": "150.67854"
+                },
+                {
+                    "name": "Millthorpe",
+                    "lat": "-33.44601",
+                    "lon": "149.18539"
+                },
+                {
+                    "name": "Kyogle",
+                    "lat": "-28.62075",
+                    "lon": "153.00482"
+                },
+                {
+                    "name": "Armidale",
+                    "lat": "-30.50828",
+                    "lon": "151.67123"
+                },
+                {
+                    "name": "East Ballina",
+                    "lat": "-28.86667",
+                    "lon": "153.58333"
+                },
+                {
+                    "name": "East Tamworth",
+                    "lat": "-31.08548",
+                    "lon": "150.93721"
+                },
+                {
+                    "name": "Oakdale",
+                    "lat": "-34.0793",
+                    "lon": "150.5132"
+                },
+                {
+                    "name": "Dubbo",
+                    "lat": "-32.24295",
+                    "lon": "148.60484"
+                },
+                {
+                    "name": "Long Jetty",
+                    "lat": "-33.35795",
+                    "lon": "151.48135"
+                },
+                {
+                    "name": "Gilgai",
+                    "lat": "-29.8527",
+                    "lon": "151.11806"
+                },
+                {
+                    "name": "Mudgee",
+                    "lat": "-32.59426",
+                    "lon": "149.5871"
+                },
+                {
+                    "name": "Nimbin",
+                    "lat": "-28.59726",
+                    "lon": "153.22254"
+                },
+                {
+                    "name": "Leeton",
+                    "lat": "-34.55105",
+                    "lon": "146.40483"
+                },
+                {
+                    "name": "Byron Bay",
+                    "lat": "-28.64201",
+                    "lon": "153.61194"
+                },
+                {
+                    "name": "Medowie",
+                    "lat": "-32.7415",
+                    "lon": "151.8676"
+                },
+                {
+                    "name": "Murwillumbah",
+                    "lat": "-28.32732",
+                    "lon": "153.39339"
+                },
+                {
+                    "name": "Pitt Town",
+                    "lat": "-33.58718",
+                    "lon": "150.85857"
+                },
+                {
+                    "name": "Berowra",
+                    "lat": "-33.62078",
+                    "lon": "151.15091"
+                },
+                {
+                    "name": "Redhead",
+                    "lat": "-33.01178",
+                    "lon": "151.71142"
+                },
+                {
+                    "name": "Port Kembla",
+                    "lat": "-34.4818",
+                    "lon": "150.9012"
+                },
+                {
+                    "name": "Corowa",
+                    "lat": "-35.99962",
+                    "lon": "146.3858"
+                },
+                {
+                    "name": "Kingscliff",
+                    "lat": "-28.25983",
+                    "lon": "153.57816"
+                },
+                {
+                    "name": "Goonellabah",
+                    "lat": "-28.81667",
+                    "lon": "153.31667"
+                },
+                {
+                    "name": "Lithgow",
+                    "lat": "-33.48247",
+                    "lon": "150.13631"
+                },
+                {
+                    "name": "Horsley Park",
+                    "lat": "-33.84322",
+                    "lon": "150.84889"
+                },
+                {
+                    "name": "Young",
+                    "lat": "-34.3135",
+                    "lon": "148.30107"
+                },
+                {
+                    "name": "West Pennant",
+                    "lat": "-33.7457",
+                    "lon": "151.04764"
+                },
+                {
+                    "name": "Greta",
+                    "lat": "-32.67783",
+                    "lon": "151.38924"
+                },
+                {
+                    "name": "Coraki",
+                    "lat": "-28.99332",
+                    "lon": "153.28212"
+                },
+                {
+                    "name": "Hazelbrook",
+                    "lat": "-33.72446",
+                    "lon": "150.45839"
+                },
+                {
+                    "name": "Berry",
+                    "lat": "-34.77527",
+                    "lon": "150.69064"
+                },
+                {
+                    "name": "Cooranbong",
+                    "lat": "-33.07622",
+                    "lon": "151.45409"
+                },
+                {
+                    "name": "Rutherford",
+                    "lat": "-32.71667",
+                    "lon": "151.53333"
+                },
+                {
+                    "name": "Darlington",
+                    "lat": "-33.89103",
+                    "lon": "151.19548"
+                },
+                {
+                    "name": "Bowraville",
+                    "lat": "-30.64997",
+                    "lon": "152.85146"
+                },
+                {
+                    "name": "East Albury",
+                    "lat": "-36.08144",
+                    "lon": "146.92991"
+                },
+                {
+                    "name": "Mulgoa",
+                    "lat": "-33.838",
+                    "lon": "150.64963"
+                },
+                {
+                    "name": "Nana Glen",
+                    "lat": "-30.13333",
+                    "lon": "153.01667"
+                },
+                {
+                    "name": "South Grafton",
+                    "lat": "-29.7076",
+                    "lon": "152.92627"
+                },
+                {
+                    "name": "Cessnock",
+                    "lat": "-32.83211",
+                    "lon": "151.35623"
+                },
+                {
+                    "name": "Bringelly",
+                    "lat": "-33.93333",
+                    "lon": "150.73333"
+                },
+                {
+                    "name": "Scheyville",
+                    "lat": "-33.6045",
+                    "lon": "150.88314"
+                },
+                {
+                    "name": "Heathcote",
+                    "lat": "-34.0841",
+                    "lon": "151.01305"
+                },
+                {
+                    "name": "Gundagai",
+                    "lat": "-35.06525",
+                    "lon": "148.10802"
+                },
+                {
+                    "name": "Grafton",
+                    "lat": "-29.69012",
+                    "lon": "152.93337"
+                },
+                {
+                    "name": "Blair Athol",
+                    "lat": "-30.65",
+                    "lon": "150.2"
+                },
+                {
+                    "name": "Batemans Bay",
+                    "lat": "-35.70658",
+                    "lon": "150.17541"
+                },
+                {
+                    "name": "Cundletown",
+                    "lat": "-31.8941",
+                    "lon": "152.52141"
+                },
+                {
+                    "name": "Bundanoon",
+                    "lat": "-34.65851",
+                    "lon": "150.29913"
+                },
+                {
+                    "name": "Glenorie",
+                    "lat": "-33.60177",
+                    "lon": "151.00886"
+                },
+                {
+                    "name": "Mulwala",
+                    "lat": "-35.99161",
+                    "lon": "146.00114"
+                },
+                {
+                    "name": "Glendale",
+                    "lat": "-32.93194",
+                    "lon": "151.64103"
+                },
+                {
+                    "name": "Dee Why",
+                    "lat": "-33.75",
+                    "lon": "151.3"
+                }
+            ]
+        },
+        {
+            "search_string": "Northern Territory, Australia",
+            "requested_place_count": 10,
+            "actual_place_count": 8,
+            "resolved_name": "Northern Territory",
+            "bb_lat_1": -25.42153493599993,
+            "bb_lat_2": -13.403534935999929,
+            "bb_lon_1": 127.35804758700012,
+            "bb_lon_2": 139.37604758700013,
+            "places": [
+                {
+                    "name": "Alice Springs",
+                    "lat": "-23.69748",
+                    "lon": "133.88362"
+                },
+                {
+                    "name": "Katherine",
+                    "lat": "-14.46517",
+                    "lon": "132.26347"
+                },
+                {
+                    "name": "Alyangula",
+                    "lat": "-13.85413",
+                    "lon": "136.42129"
+                },
+                {
+                    "name": "Tennant Creek",
+                    "lat": "-19.6497",
+                    "lon": "134.19147"
+                },
+                {
+                    "name": "McMinns Lagoon",
+                    "lat": "-12.55397",
+                    "lon": "131.11165"
+                },
+                {
+                    "name": "Nhulunbuy",
+                    "lat": "-12.18652",
+                    "lon": "136.78201"
+                },
+                {
+                    "name": "Larrakeyah",
+                    "lat": "-12.45527",
+                    "lon": "130.83172"
+                },
+                {
+                    "name": "Darwin",
+                    "lat": "-12.46113",
+                    "lon": "130.84185"
+                }
+            ]
+        },
+        {
+            "search_string": "Queensland, Australia",
+            "requested_place_count": 90,
+            "actual_place_count": 90,
+            "resolved_name": "Queensland",
+            "bb_lat_1": -31.44335131199996,
+            "bb_lat_2": -13.687351311999961,
+            "bb_lon_1": 135.67108461000004,
+            "bb_lon_2": 153.42708461,
+            "places": [
+                {
+                    "name": "Mareeba",
+                    "lat": "-16.995",
+                    "lon": "145.42323"
+                },
+                {
+                    "name": "Mount Isa",
+                    "lat": "-20.72523",
+                    "lon": "139.49727"
+                },
+                {
+                    "name": "Cooktown",
+                    "lat": "-15.47028",
+                    "lon": "145.24986"
+                },
+                {
+                    "name": "Weipa",
+                    "lat": "-12.62346",
+                    "lon": "141.87883"
+                },
+                {
+                    "name": "Proserpine",
+                    "lat": "-20.4011",
+                    "lon": "148.5802"
+                },
+                {
+                    "name": "Warwick",
+                    "lat": "-28.21901",
+                    "lon": "152.03438"
+                },
+                {
+                    "name": "Innisfail",
+                    "lat": "-17.52209",
+                    "lon": "146.03102"
+                },
+                {
+                    "name": "Yeppoon",
+                    "lat": "-23.12683",
+                    "lon": "150.74406"
+                },
+                {
+                    "name": "Cloncurry",
+                    "lat": "-20.70718",
+                    "lon": "140.51303"
+                },
+                {
+                    "name": "Moranbah",
+                    "lat": "-22.00163",
+                    "lon": "148.04661"
+                },
+                {
+                    "name": "Rainbow Beach",
+                    "lat": "-25.90432",
+                    "lon": "153.09174"
+                },
+                {
+                    "name": "Mackay",
+                    "lat": "-21.15345",
+                    "lon": "149.16554"
+                },
+                {
+                    "name": "Hughenden",
+                    "lat": "-20.84399",
+                    "lon": "144.20035"
+                },
+                {
+                    "name": "Magnetic Island",
+                    "lat": "-19.15514",
+                    "lon": "146.8485"
+                },
+                {
+                    "name": "Cairns",
+                    "lat": "-16.92304",
+                    "lon": "145.76625"
+                },
+                {
+                    "name": "Sarina",
+                    "lat": "-21.4191",
+                    "lon": "149.21677"
+                },
+                {
+                    "name": "Taroom",
+                    "lat": "-25.63925",
+                    "lon": "149.7998"
+                },
+                {
+                    "name": "Emerald",
+                    "lat": "-23.52296",
+                    "lon": "148.15784"
+                },
+                {
+                    "name": "Charters Towers",
+                    "lat": "-20.07671",
+                    "lon": "146.26353"
+                },
+                {
+                    "name": "Bowen",
+                    "lat": "-20.01367",
+                    "lon": "148.24754"
+                },
+                {
+                    "name": "Stanthorpe",
+                    "lat": "-28.65425",
+                    "lon": "151.93388"
+                },
+                {
+                    "name": "Roma",
+                    "lat": "-26.56741",
+                    "lon": "148.78751"
+                },
+                {
+                    "name": "Ravenshoe",
+                    "lat": "-17.60758",
+                    "lon": "145.48091"
+                },
+                {
+                    "name": "Toolooa",
+                    "lat": "-23.93333",
+                    "lon": "151.28333"
+                },
+                {
+                    "name": "Gatton",
+                    "lat": "-27.55873",
+                    "lon": "152.27618"
+                },
+                {
+                    "name": "Chinchilla",
+                    "lat": "-26.73787",
+                    "lon": "150.6297"
+                },
+                {
+                    "name": "Blackwater",
+                    "lat": "-23.58351",
+                    "lon": "148.87912"
+                },
+                {
+                    "name": "Ayr",
+                    "lat": "-19.57393",
+                    "lon": "147.40666"
+                },
+                {
+                    "name": "Yorkeys Knob",
+                    "lat": "-16.80278",
+                    "lon": "145.72083"
+                },
+                {
+                    "name": "Bundaberg",
+                    "lat": "-24.86621",
+                    "lon": "152.3479"
+                },
+                {
+                    "name": "West Rockhampton",
+                    "lat": "-23.37996",
+                    "lon": "150.48102"
+                },
+                {
+                    "name": "Home Hill",
+                    "lat": "-19.65921",
+                    "lon": "147.41232"
+                },
+                {
+                    "name": "Port Douglas",
+                    "lat": "-16.48383",
+                    "lon": "145.46725"
+                },
+                {
+                    "name": "Urangan",
+                    "lat": "-25.29214",
+                    "lon": "152.90535"
+                },
+                {
+                    "name": "Woree",
+                    "lat": "-16.95",
+                    "lon": "145.75"
+                },
+                {
+                    "name": "Tin Can Bay",
+                    "lat": "-25.91646",
+                    "lon": "153.00584"
+                },
+                {
+                    "name": "Cleveland",
+                    "lat": "-27.52677",
+                    "lon": "153.26516"
+                },
+                {
+                    "name": "Westcourt",
+                    "lat": "-26.8",
+                    "lon": "150.15"
+                },
+                {
+                    "name": "Tieri",
+                    "lat": "-23.03829",
+                    "lon": "148.34463"
+                },
+                {
+                    "name": "Gladstone",
+                    "lat": "-23.84852",
+                    "lon": "151.25775"
+                },
+                {
+                    "name": "Ingham",
+                    "lat": "-18.64552",
+                    "lon": "146.16248"
+                },
+                {
+                    "name": "Red Hill",
+                    "lat": "-20.31667",
+                    "lon": "148.5"
+                },
+                {
+                    "name": "Wilsonton Heights",
+                    "lat": "-27.53227",
+                    "lon": "151.92444"
+                },
+                {
+                    "name": "Kingaroy",
+                    "lat": "-26.53994",
+                    "lon": "151.8373"
+                },
+                {
+                    "name": "Burbank",
+                    "lat": "-27.55584",
+                    "lon": "153.14701"
+                },
+                {
+                    "name": "Dalby",
+                    "lat": "-27.18169",
+                    "lon": "151.26205"
+                },
+                {
+                    "name": "Biloela",
+                    "lat": "-24.39589",
+                    "lon": "150.51504"
+                },
+                {
+                    "name": "Goondiwindi",
+                    "lat": "-28.54709",
+                    "lon": "150.30546"
+                },
+                {
+                    "name": "Bohle Plains",
+                    "lat": "-19.31365",
+                    "lon": "146.69186"
+                },
+                {
+                    "name": "Tamborine Mountain",
+                    "lat": "-27.96954",
+                    "lon": "153.19937"
+                },
+                {
+                    "name": "Yarraman",
+                    "lat": "-26.84167",
+                    "lon": "151.98138"
+                },
+                {
+                    "name": "Torquay",
+                    "lat": "-25.28496",
+                    "lon": "152.87886"
+                },
+                {
+                    "name": "Atherton",
+                    "lat": "-17.26864",
+                    "lon": "145.47522"
+                },
+                {
+                    "name": "Kuranda",
+                    "lat": "-16.81978",
+                    "lon": "145.63818"
+                },
+                {
+                    "name": "Noosa Heads",
+                    "lat": "-26.39433",
+                    "lon": "153.0901"
+                },
+                {
+                    "name": "Walkerston",
+                    "lat": "-21.16097",
+                    "lon": "149.05814"
+                },
+                {
+                    "name": "Wondai",
+                    "lat": "-26.3177",
+                    "lon": "151.87242"
+                },
+                {
+                    "name": "Gympie",
+                    "lat": "-26.18979",
+                    "lon": "152.66499"
+                },
+                {
+                    "name": "Woorim",
+                    "lat": "-27.06931",
+                    "lon": "153.20427"
+                },
+                {
+                    "name": "Cedar Vale",
+                    "lat": "-27.88923",
+                    "lon": "153.02891"
+                },
+                {
+                    "name": "Woodford",
+                    "lat": "-26.95291",
+                    "lon": "152.77747"
+                },
+                {
+                    "name": "Thagoona",
+                    "lat": "-27.63333",
+                    "lon": "152.63333"
+                },
+                {
+                    "name": "Childers",
+                    "lat": "-25.23708",
+                    "lon": "152.27876"
+                },
+                {
+                    "name": "Gayndah",
+                    "lat": "-25.62522",
+                    "lon": "151.61144"
+                },
+                {
+                    "name": "East Toowoomba",
+                    "lat": "-27.57086",
+                    "lon": "151.97422"
+                },
+                {
+                    "name": "Maryborough",
+                    "lat": "-25.54073",
+                    "lon": "152.70493"
+                },
+                {
+                    "name": "Coolum Beach",
+                    "lat": "-26.5283",
+                    "lon": "153.08809"
+                },
+                {
+                    "name": "Mooloolaba",
+                    "lat": "-26.68164",
+                    "lon": "153.11925"
+                },
+                {
+                    "name": "Yamanto",
+                    "lat": "-27.66027",
+                    "lon": "152.73863"
+                },
+                {
+                    "name": "D'Aguilar",
+                    "lat": "-26.98333",
+                    "lon": "152.8"
+                },
+                {
+                    "name": "Palm Cove",
+                    "lat": "-16.75",
+                    "lon": "145.66667"
+                },
+                {
+                    "name": "Sharon",
+                    "lat": "-24.87593",
+                    "lon": "152.26994"
+                },
+                {
+                    "name": "Oakey",
+                    "lat": "-27.43305",
+                    "lon": "151.72063"
+                },
+                {
+                    "name": "Lower Beechmont",
+                    "lat": "-28.04751",
+                    "lon": "153.24572"
+                },
+                {
+                    "name": "Tolga",
+                    "lat": "-17.23333",
+                    "lon": "145.48333"
+                },
+                {
+                    "name": "Yandina",
+                    "lat": "-26.56165",
+                    "lon": "152.95595"
+                },
+                {
+                    "name": "Townsville",
+                    "lat": "-19.26639",
+                    "lon": "146.80569"
+                },
+                {
+                    "name": "Rockhampton",
+                    "lat": "-23.38032",
+                    "lon": "150.50595"
+                },
+                {
+                    "name": "Top Camp",
+                    "lat": "-27.63584",
+                    "lon": "151.9392"
+                },
+                {
+                    "name": "Scarness",
+                    "lat": "-25.28333",
+                    "lon": "152.85"
+                },
+                {
+                    "name": "Thabeban",
+                    "lat": "-24.9",
+                    "lon": "152.35"
+                },
+                {
+                    "name": "Black Mountain",
+                    "lat": "-26.39886",
+                    "lon": "152.87561"
+                },
+                {
+                    "name": "Urraween",
+                    "lat": "-25.3",
+                    "lon": "152.81667"
+                },
+                {
+                    "name": "Redlynch",
+                    "lat": "-16.88333",
+                    "lon": "145.7"
+                },
+                {
+                    "name": "Murrumba Downs",
+                    "lat": "-27.26733",
+                    "lon": "153.01053"
+                },
+                {
+                    "name": "Taringa",
+                    "lat": "-27.49061",
+                    "lon": "152.97861"
+                },
+                {
+                    "name": "Westbrook",
+                    "lat": "-27.61667",
+                    "lon": "151.86667"
+                },
+                {
+                    "name": "Caloundra",
+                    "lat": "-26.80346",
+                    "lon": "153.12195"
+                },
+                {
+                    "name": "Pullenvale",
+                    "lat": "-27.52283",
+                    "lon": "152.88651"
+                },
+                {
+                    "name": "Dicky Beach",
+                    "lat": "-26.78364",
+                    "lon": "153.13766"
+                }
+            ]
+        },
+        {
+            "search_string": "South Australia, Australia",
+            "requested_place_count": 80,
+            "actual_place_count": 62,
+            "resolved_name": "South Australia",
+            "bb_lat_1": -36.12341446999995,
+            "bb_lat_2": -24.089414469999948,
+            "bb_lon_1": 129.77217952200004,
+            "bb_lon_2": 141.80617952200004,
+            "places": [
+                {
+                    "name": "Coober Pedy",
+                    "lat": "-29.01415",
+                    "lon": "134.75495"
+                },
+                {
+                    "name": "Roxby Downs",
+                    "lat": "-30.56305",
+                    "lon": "136.89546"
+                },
+                {
+                    "name": "The Sill",
+                    "lat": "-28.16048",
+                    "lon": "138.6754"
+                },
+                {
+                    "name": "Ceduna",
+                    "lat": "-32.1266",
+                    "lon": "133.67271"
+                },
+                {
+                    "name": "Innamincka",
+                    "lat": "-27.70728",
+                    "lon": "140.73697"
+                },
+                {
+                    "name": "Quorn",
+                    "lat": "-32.34676",
+                    "lon": "138.04176"
+                },
+                {
+                    "name": "Angaston",
+                    "lat": "-34.50129",
+                    "lon": "139.04625"
+                },
+                {
+                    "name": "Streaky Bay",
+                    "lat": "-32.79554",
+                    "lon": "134.20928"
+                },
+                {
+                    "name": "Koomooloo",
+                    "lat": "-33.5547",
+                    "lon": "139.46805"
+                },
+                {
+                    "name": "Port Lincoln",
+                    "lat": "-34.72625",
+                    "lon": "135.87442"
+                },
+                {
+                    "name": "Wallaroo",
+                    "lat": "-33.93881",
+                    "lon": "137.63365"
+                },
+                {
+                    "name": "Caralue",
+                    "lat": "-33.30056",
+                    "lon": "136.11906"
+                },
+                {
+                    "name": "Keith",
+                    "lat": "-36.0991",
+                    "lon": "140.35315"
+                },
+                {
+                    "name": "Loxton",
+                    "lat": "-34.4502",
+                    "lon": "140.56908"
+                },
+                {
+                    "name": "Whyalla",
+                    "lat": "-33.03268",
+                    "lon": "137.56483"
+                },
+                {
+                    "name": "Kadina",
+                    "lat": "-33.96495",
+                    "lon": "137.71634"
+                },
+                {
+                    "name": "Peterborough",
+                    "lat": "-32.97205",
+                    "lon": "138.84073"
+                },
+                {
+                    "name": "Port Augusta West",
+                    "lat": "-32.48611",
+                    "lon": "137.75833"
+                },
+                {
+                    "name": "Kingscote",
+                    "lat": "-35.6559",
+                    "lon": "137.6393"
+                },
+                {
+                    "name": "Loveday",
+                    "lat": "-34.28333",
+                    "lon": "140.43333"
+                },
+                {
+                    "name": "Honiton",
+                    "lat": "-35.11667",
+                    "lon": "137.65"
+                },
+                {
+                    "name": "Jamestown",
+                    "lat": "-33.20531",
+                    "lon": "138.60503"
+                },
+                {
+                    "name": "Tumby Bay",
+                    "lat": "-34.37506",
+                    "lon": "136.10333"
+                },
+                {
+                    "name": "Cummins",
+                    "lat": "-34.26396",
+                    "lon": "135.726"
+                },
+                {
+                    "name": "Renmark",
+                    "lat": "-34.17702",
+                    "lon": "140.74697"
+                },
+                {
+                    "name": "Callington",
+                    "lat": "-35.11977",
+                    "lon": "139.0414"
+                },
+                {
+                    "name": "Kapunda",
+                    "lat": "-34.33871",
+                    "lon": "138.91644"
+                },
+                {
+                    "name": "Port Victoria",
+                    "lat": "-34.49722",
+                    "lon": "137.48534"
+                },
+                {
+                    "name": "Port Pirie",
+                    "lat": "-33.19176",
+                    "lon": "138.01746"
+                },
+                {
+                    "name": "Waikerie",
+                    "lat": "-34.18178",
+                    "lon": "139.98552"
+                },
+                {
+                    "name": "Kingston",
+                    "lat": "-34.23333",
+                    "lon": "140.35"
+                },
+                {
+                    "name": "Normanville",
+                    "lat": "-35.44781",
+                    "lon": "138.31495"
+                },
+                {
+                    "name": "Bordertown",
+                    "lat": "-36.30768",
+                    "lon": "140.77167"
+                },
+                {
+                    "name": "Solomontown",
+                    "lat": "-33.2",
+                    "lon": "138.03333"
+                },
+                {
+                    "name": "Ardrossan",
+                    "lat": "-34.42217",
+                    "lon": "137.91907"
+                },
+                {
+                    "name": "Encounter Bay",
+                    "lat": "-35.57419",
+                    "lon": "138.60055"
+                },
+                {
+                    "name": "Mannum",
+                    "lat": "-34.91529",
+                    "lon": "139.30325"
+                },
+                {
+                    "name": "Goolwa",
+                    "lat": "-35.50261",
+                    "lon": "138.78462"
+                },
+                {
+                    "name": "Mallala",
+                    "lat": "-34.4374",
+                    "lon": "138.50987"
+                },
+                {
+                    "name": "Cleve",
+                    "lat": "-33.7",
+                    "lon": "136.5"
+                },
+                {
+                    "name": "Crystal Brook",
+                    "lat": "-33.35256",
+                    "lon": "138.20955"
+                },
+                {
+                    "name": "Nuriootpa",
+                    "lat": "-34.46825",
+                    "lon": "138.99767"
+                },
+                {
+                    "name": "Clare",
+                    "lat": "-33.83325",
+                    "lon": "138.61064"
+                },
+                {
+                    "name": "Tailem Bend",
+                    "lat": "-35.25226",
+                    "lon": "139.45546"
+                },
+                {
+                    "name": "Renmark West",
+                    "lat": "-34.16531",
+                    "lon": "140.7097"
+                },
+                {
+                    "name": "Meningie",
+                    "lat": "-35.68841",
+                    "lon": "139.33856"
+                },
+                {
+                    "name": "Tanunda",
+                    "lat": "-34.52336",
+                    "lon": "138.95982"
+                },
+                {
+                    "name": "Adelaide Hills",
+                    "lat": "-34.91119",
+                    "lon": "138.70735"
+                },
+                {
+                    "name": "Freeling",
+                    "lat": "-34.45407",
+                    "lon": "138.80868"
+                },
+                {
+                    "name": "Maitland",
+                    "lat": "-34.37386",
+                    "lon": "137.67333"
+                },
+                {
+                    "name": "Birdwood",
+                    "lat": "-34.81826",
+                    "lon": "138.96478"
+                },
+                {
+                    "name": "Williamstown",
+                    "lat": "-34.6721",
+                    "lon": "138.89108"
+                },
+                {
+                    "name": "Port Elliot",
+                    "lat": "-35.52998",
+                    "lon": "138.67806"
+                },
+                {
+                    "name": "Balaklava",
+                    "lat": "-34.14542",
+                    "lon": "138.41148"
+                },
+                {
+                    "name": "Port Noarlunga",
+                    "lat": "-35.14802",
+                    "lon": "138.47099"
+                },
+                {
+                    "name": "Mount Compass",
+                    "lat": "-35.34685",
+                    "lon": "138.62032"
+                },
+                {
+                    "name": "Port Adelaide",
+                    "lat": "-34.85",
+                    "lon": "138.46667"
+                },
+                {
+                    "name": "Murray Bridge",
+                    "lat": "-35.11986",
+                    "lon": "139.27345"
+                },
+                {
+                    "name": "Strathalbyn",
+                    "lat": "-35.25979",
+                    "lon": "138.89247"
+                },
+                {
+                    "name": "Unley Park",
+                    "lat": "-34.96388",
+                    "lon": "138.60776"
+                },
+                {
+                    "name": "Barmera",
+                    "lat": "-34.25562",
+                    "lon": "140.46147"
+                },
+                {
+                    "name": "Lewiston",
+                    "lat": "-34.60449",
+                    "lon": "138.59125"
+                }
+            ]
+        },
+        {
+            "search_string": "Tasmania, Australia",
+            "requested_place_count": 35,
+            "actual_place_count": 28,
+            "resolved_name": "Tasmania",
+            "bb_lat_1": -51.99999999999994,
+            "bb_lat_2": -31.999999999999943,
+            "bb_lon_1": 136.7500000000001,
+            "bb_lon_2": 156.7500000000001,
+            "places": [
+                {
+                    "name": "Sandford",
+                    "lat": "-42.93333",
+                    "lon": "147.5"
+                },
+                {
+                    "name": "Sorell",
+                    "lat": "-42.78161",
+                    "lon": "147.56267"
+                },
+                {
+                    "name": "Geeveston",
+                    "lat": "-43.16337",
+                    "lon": "146.92549"
+                },
+                {
+                    "name": "Kettering",
+                    "lat": "-43.12623",
+                    "lon": "147.24641"
+                },
+                {
+                    "name": "Queenstown",
+                    "lat": "-42.0805",
+                    "lon": "145.55646"
+                },
+                {
+                    "name": "St Helens",
+                    "lat": "-41.32028",
+                    "lon": "148.23889"
+                },
+                {
+                    "name": "Currie",
+                    "lat": "-39.92976",
+                    "lon": "143.85385"
+                },
+                {
+                    "name": "Smithton",
+                    "lat": "-40.84587",
+                    "lon": "145.12498"
+                },
+                {
+                    "name": "Longford",
+                    "lat": "-41.60512",
+                    "lon": "147.11887"
+                },
+                {
+                    "name": "New Norfolk",
+                    "lat": "-42.78261",
+                    "lon": "147.0587"
+                },
+                {
+                    "name": "Bridport",
+                    "lat": "-41.00046",
+                    "lon": "147.39175"
+                },
+                {
+                    "name": "Cygnet",
+                    "lat": "-43.15333",
+                    "lon": "147.07253"
+                },
+                {
+                    "name": "Blackmans Bay",
+                    "lat": "-43.00311",
+                    "lon": "147.31694"
+                },
+                {
+                    "name": "Latrobe",
+                    "lat": "-41.24641",
+                    "lon": "146.42458"
+                },
+                {
+                    "name": "Sheffield",
+                    "lat": "-41.39947",
+                    "lon": "146.33897"
+                },
+                {
+                    "name": "Ulverstone",
+                    "lat": "-41.16026",
+                    "lon": "146.18242"
+                },
+                {
+                    "name": "George Town",
+                    "lat": "-41.10559",
+                    "lon": "146.82606"
+                },
+                {
+                    "name": "Rosebery",
+                    "lat": "-41.77941",
+                    "lon": "145.53825"
+                },
+                {
+                    "name": "Wynyard",
+                    "lat": "-40.9897",
+                    "lon": "145.72617"
+                },
+                {
+                    "name": "Huonville",
+                    "lat": "-43.03124",
+                    "lon": "147.04813"
+                },
+                {
+                    "name": "Newstead",
+                    "lat": "-41.43333",
+                    "lon": "147.16667"
+                },
+                {
+                    "name": "Evandale",
+                    "lat": "-41.56858",
+                    "lon": "147.25271"
+                },
+                {
+                    "name": "Perth",
+                    "lat": "-41.57231",
+                    "lon": "147.17096"
+                },
+                {
+                    "name": "Port Sorell",
+                    "lat": "-41.16652",
+                    "lon": "146.55283"
+                },
+                {
+                    "name": "Burnie",
+                    "lat": "-41.05584",
+                    "lon": "145.90375"
+                },
+                {
+                    "name": "Bridgewater",
+                    "lat": "-42.73719",
+                    "lon": "147.22784"
+                },
+                {
+                    "name": "Margate",
+                    "lat": "-43.02814",
+                    "lon": "147.26256"
+                },
+                {
+                    "name": "Scottsdale",
+                    "lat": "-41.1578",
+                    "lon": "147.51727"
+                }
+            ]
+        },
+        {
+            "search_string": "Victoria, Australia",
+            "requested_place_count": 150,
+            "actual_place_count": 150,
+            "resolved_name": "Victoria",
+            "bb_lat_1": -40.41623024199994,
+            "bb_lat_2": -33.280230241999945,
+            "bb_lon_1": 140.73154494500008,
+            "bb_lon_2": 147.8675449450001,
+            "places": [
+                {
+                    "name": "Saint Andrews Beach",
+                    "lat": "-38.4141",
+                    "lon": "144.82436"
+                },
+                {
+                    "name": "Epsom",
+                    "lat": "-36.71667",
+                    "lon": "144.31667"
+                },
+                {
+                    "name": "Anglesea",
+                    "lat": "-38.4073",
+                    "lon": "144.18587"
+                },
+                {
+                    "name": "Portland",
+                    "lat": "-38.3462",
+                    "lon": "141.60257"
+                },
+                {
+                    "name": "Yallambie",
+                    "lat": "-37.72515",
+                    "lon": "145.09352"
+                },
+                {
+                    "name": "Mansfield",
+                    "lat": "-37.052",
+                    "lon": "146.08846"
+                },
+                {
+                    "name": "Sale",
+                    "lat": "-38.11095",
+                    "lon": "147.06802"
+                },
+                {
+                    "name": "Swan Hill",
+                    "lat": "-35.33781",
+                    "lon": "143.5544"
+                },
+                {
+                    "name": "Horsham",
+                    "lat": "-36.71131",
+                    "lon": "142.19981"
+                },
+                {
+                    "name": "Bairnsdale",
+                    "lat": "-37.82289",
+                    "lon": "147.61041"
+                },
+                {
+                    "name": "Hamilton",
+                    "lat": "-37.74425",
+                    "lon": "142.02202"
+                },
+                {
+                    "name": "Ouyen",
+                    "lat": "-35.07087",
+                    "lon": "142.32034"
+                },
+                {
+                    "name": "Benalla",
+                    "lat": "-36.55113",
+                    "lon": "145.98425"
+                },
+                {
+                    "name": "Warragul",
+                    "lat": "-38.15912",
+                    "lon": "145.93118"
+                },
+                {
+                    "name": "Sunbury",
+                    "lat": "-37.57742",
+                    "lon": "144.72607"
+                },
+                {
+                    "name": "Kinglake West",
+                    "lat": "-37.46667",
+                    "lon": "145.23333"
+                },
+                {
+                    "name": "Stawell",
+                    "lat": "-37.05632",
+                    "lon": "142.78088"
+                },
+                {
+                    "name": "Warrnambool",
+                    "lat": "-38.38176",
+                    "lon": "142.48799"
+                },
+                {
+                    "name": "Phillip Island",
+                    "lat": "-38.48349",
+                    "lon": "145.23102"
+                },
+                {
+                    "name": "Shepparton",
+                    "lat": "-36.38047",
+                    "lon": "145.39867"
+                },
+                {
+                    "name": "Maryborough",
+                    "lat": "-37.04562",
+                    "lon": "143.73923"
+                },
+                {
+                    "name": "Port Fairy",
+                    "lat": "-38.38535",
+                    "lon": "142.2371"
+                },
+                {
+                    "name": "Moe",
+                    "lat": "-38.17828",
+                    "lon": "146.26099"
+                },
+                {
+                    "name": "Yarra Junction",
+                    "lat": "-37.78192",
+                    "lon": "145.6143"
+                },
+                {
+                    "name": "North Wonthaggi",
+                    "lat": "-38.6",
+                    "lon": "145.6"
+                },
+                {
+                    "name": "Beaconsfield Upper",
+                    "lat": "-37.99415",
+                    "lon": "145.4142"
+                },
+                {
+                    "name": "Echuca",
+                    "lat": "-36.14057",
+                    "lon": "144.75185"
+                },
+                {
+                    "name": "Apollo Bay",
+                    "lat": "-38.7594",
+                    "lon": "143.67219"
+                },
+                {
+                    "name": "Morwell",
+                    "lat": "-38.23476",
+                    "lon": "146.39499"
+                },
+                {
+                    "name": "Mount Beauty",
+                    "lat": "-36.73628",
+                    "lon": "147.17531"
+                },
+                {
+                    "name": "Colac",
+                    "lat": "-38.339",
+                    "lon": "143.58489"
+                },
+                {
+                    "name": "Bacchus Marsh",
+                    "lat": "-37.67268",
+                    "lon": "144.43829"
+                },
+                {
+                    "name": "Kyabram",
+                    "lat": "-36.31335",
+                    "lon": "145.05035"
+                },
+                {
+                    "name": "Wangaratta",
+                    "lat": "-36.35846",
+                    "lon": "146.32056"
+                },
+                {
+                    "name": "Heyfield",
+                    "lat": "-37.9813",
+                    "lon": "146.78559"
+                },
+                {
+                    "name": "Castlemaine",
+                    "lat": "-37.06709",
+                    "lon": "144.21684"
+                },
+                {
+                    "name": "Healesville",
+                    "lat": "-37.65395",
+                    "lon": "145.51718"
+                },
+                {
+                    "name": "Melton West",
+                    "lat": "-37.67852",
+                    "lon": "144.56883"
+                },
+                {
+                    "name": "Allansford",
+                    "lat": "-38.38639",
+                    "lon": "142.59431"
+                },
+                {
+                    "name": "Ararat",
+                    "lat": "-37.28542",
+                    "lon": "142.92728"
+                },
+                {
+                    "name": "Kangaroo Flat",
+                    "lat": "-36.8",
+                    "lon": "144.25"
+                },
+                {
+                    "name": "Cowes",
+                    "lat": "-38.45231",
+                    "lon": "145.23865"
+                },
+                {
+                    "name": "Cockatoo",
+                    "lat": "-37.93677",
+                    "lon": "145.49376"
+                },
+                {
+                    "name": "Leopold",
+                    "lat": "-38.19001",
+                    "lon": "144.46825"
+                },
+                {
+                    "name": "Queenscliff",
+                    "lat": "-38.26789",
+                    "lon": "144.66193"
+                },
+                {
+                    "name": "Wodonga",
+                    "lat": "-36.12179",
+                    "lon": "146.88809"
+                },
+                {
+                    "name": "Tooradin",
+                    "lat": "-38.21475",
+                    "lon": "145.38325"
+                },
+                {
+                    "name": "Delacombe",
+                    "lat": "-37.58911",
+                    "lon": "143.81472"
+                },
+                {
+                    "name": "Alexandra",
+                    "lat": "-37.19132",
+                    "lon": "145.7112"
+                },
+                {
+                    "name": "Breakwater",
+                    "lat": "-38.17987",
+                    "lon": "144.36765"
+                },
+                {
+                    "name": "Brown Hill",
+                    "lat": "-37.55",
+                    "lon": "143.9"
+                },
+                {
+                    "name": "Yarrawonga",
+                    "lat": "-36.01923",
+                    "lon": "145.99973"
+                },
+                {
+                    "name": "Traralgon",
+                    "lat": "-38.19528",
+                    "lon": "146.5415"
+                },
+                {
+                    "name": "Kennington",
+                    "lat": "-36.78333",
+                    "lon": "144.3"
+                },
+                {
+                    "name": "Bell Post Hill",
+                    "lat": "-38.09564",
+                    "lon": "144.31968"
+                },
+                {
+                    "name": "Lakes Entrance",
+                    "lat": "-37.88115",
+                    "lon": "147.98103"
+                },
+                {
+                    "name": "Millgrove",
+                    "lat": "-37.75527",
+                    "lon": "145.65347"
+                },
+                {
+                    "name": "Seaford",
+                    "lat": "-38.1",
+                    "lon": "145.13333"
+                },
+                {
+                    "name": "Mildura",
+                    "lat": "-34.18551",
+                    "lon": "142.16251"
+                },
+                {
+                    "name": "Koo-Wee-Rup",
+                    "lat": "-38.19941",
+                    "lon": "145.49081"
+                },
+                {
+                    "name": "Little River",
+                    "lat": "-37.96667",
+                    "lon": "144.5"
+                },
+                {
+                    "name": "Long Gully",
+                    "lat": "-36.74305",
+                    "lon": "144.25788"
+                },
+                {
+                    "name": "Taylors Lakes",
+                    "lat": "-37.69863",
+                    "lon": "144.78631"
+                },
+                {
+                    "name": "Vermont",
+                    "lat": "-37.83616",
+                    "lon": "145.19428"
+                },
+                {
+                    "name": "Lara",
+                    "lat": "-38.02388",
+                    "lon": "144.40617"
+                },
+                {
+                    "name": "Werribee",
+                    "lat": "-37.9",
+                    "lon": "144.66667"
+                },
+                {
+                    "name": "Sorrento",
+                    "lat": "-38.33958",
+                    "lon": "144.74126"
+                },
+                {
+                    "name": "Somers",
+                    "lat": "-38.4",
+                    "lon": "145.16667"
+                },
+                {
+                    "name": "Diggers Rest",
+                    "lat": "-37.62597",
+                    "lon": "144.71881"
+                },
+                {
+                    "name": "Bunyip",
+                    "lat": "-38.09789",
+                    "lon": "145.71606"
+                },
+                {
+                    "name": "Mornington",
+                    "lat": "-38.21792",
+                    "lon": "145.03876"
+                },
+                {
+                    "name": "Thornbury",
+                    "lat": "-37.75",
+                    "lon": "145"
+                },
+                {
+                    "name": "Mount Clear",
+                    "lat": "-37.6",
+                    "lon": "143.88333"
+                },
+                {
+                    "name": "Whittlesea",
+                    "lat": "-37.51152",
+                    "lon": "145.11836"
+                },
+                {
+                    "name": "East Geelong",
+                    "lat": "-38.15568",
+                    "lon": "144.37202"
+                },
+                {
+                    "name": "Mount Martha",
+                    "lat": "-38.26667",
+                    "lon": "145.01667"
+                },
+                {
+                    "name": "Newington",
+                    "lat": "-37.55846",
+                    "lon": "143.82485"
+                },
+                {
+                    "name": "Craigieburn",
+                    "lat": "-37.6",
+                    "lon": "144.95"
+                },
+                {
+                    "name": "Pakenham South",
+                    "lat": "-38.13333",
+                    "lon": "145.51667"
+                },
+                {
+                    "name": "Doreen",
+                    "lat": "-37.6",
+                    "lon": "145.15"
+                },
+                {
+                    "name": "Merricks",
+                    "lat": "-38.38333",
+                    "lon": "145.08333"
+                },
+                {
+                    "name": "The Basin",
+                    "lat": "-37.85",
+                    "lon": "145.31667"
+                },
+                {
+                    "name": "Clifton Springs",
+                    "lat": "-38.1567",
+                    "lon": "144.5551"
+                },
+                {
+                    "name": "Pakenham Upper",
+                    "lat": "-38.01667",
+                    "lon": "145.51667"
+                },
+                {
+                    "name": "Rockbank",
+                    "lat": "-37.73353",
+                    "lon": "144.67003"
+                },
+                {
+                    "name": "Blind Bight",
+                    "lat": "-38.21427",
+                    "lon": "145.3377"
+                },
+                {
+                    "name": "Kallista",
+                    "lat": "-37.88333",
+                    "lon": "145.36667"
+                },
+                {
+                    "name": "Crib Point",
+                    "lat": "-38.35",
+                    "lon": "145.2"
+                },
+                {
+                    "name": "Warrandyte",
+                    "lat": "-37.75",
+                    "lon": "145.23333"
+                },
+                {
+                    "name": "Windsor",
+                    "lat": "-37.85344",
+                    "lon": "144.99241"
+                },
+                {
+                    "name": "White Hills",
+                    "lat": "-36.72875",
+                    "lon": "144.30525"
+                },
+                {
+                    "name": "Junction Village",
+                    "lat": "-38.13636",
+                    "lon": "145.29684"
+                },
+                {
+                    "name": "South Melbourne",
+                    "lat": "-37.83333",
+                    "lon": "144.96667"
+                },
+                {
+                    "name": "Hurstbridge",
+                    "lat": "-37.64157",
+                    "lon": "145.19408"
+                },
+                {
+                    "name": "Yarra Glen",
+                    "lat": "-37.65794",
+                    "lon": "145.37416"
+                },
+                {
+                    "name": "Hawthorn South",
+                    "lat": "-37.83333",
+                    "lon": "145.05"
+                },
+                {
+                    "name": "Gembrook",
+                    "lat": "-37.95321",
+                    "lon": "145.55536"
+                },
+                {
+                    "name": "Kalorama",
+                    "lat": "-37.81667",
+                    "lon": "145.36667"
+                },
+                {
+                    "name": "Ivanhoe East",
+                    "lat": "-37.7832",
+                    "lon": "145.05249"
+                },
+                {
+                    "name": "Footscray",
+                    "lat": "-37.8",
+                    "lon": "144.9"
+                },
+                {
+                    "name": "Williamstown",
+                    "lat": "-37.857",
+                    "lon": "144.89769"
+                },
+                {
+                    "name": "Seaholme",
+                    "lat": "-37.864",
+                    "lon": "144.84504"
+                },
+                {
+                    "name": "Saint Andrews",
+                    "lat": "-37.60151",
+                    "lon": "145.27235"
+                },
+                {
+                    "name": "Point Cook",
+                    "lat": "-37.91482",
+                    "lon": "144.75088"
+                },
+                {
+                    "name": "Lilydale",
+                    "lat": "-37.75",
+                    "lon": "145.35"
+                },
+                {
+                    "name": "Caroline Springs",
+                    "lat": "-37.74124",
+                    "lon": "144.73631"
+                },
+                {
+                    "name": "Rye",
+                    "lat": "-38.36667",
+                    "lon": "144.81667"
+                },
+                {
+                    "name": "Woori Yallock",
+                    "lat": "-37.78062",
+                    "lon": "145.53819"
+                },
+                {
+                    "name": "Mernda",
+                    "lat": "-37.60075",
+                    "lon": "145.09555"
+                },
+                {
+                    "name": "Ashwood",
+                    "lat": "-37.86659",
+                    "lon": "145.10553"
+                },
+                {
+                    "name": "Greenvale",
+                    "lat": "-37.63333",
+                    "lon": "144.86667"
+                },
+                {
+                    "name": "Rosebud",
+                    "lat": "-38.35542",
+                    "lon": "144.9068"
+                },
+                {
+                    "name": "Botanic Ridge",
+                    "lat": "-38.13922",
+                    "lon": "145.26841"
+                },
+                {
+                    "name": "Garfield",
+                    "lat": "-38.08985",
+                    "lon": "145.67502"
+                },
+                {
+                    "name": "Hastings",
+                    "lat": "-38.3",
+                    "lon": "145.18333"
+                },
+                {
+                    "name": "Macclesfield",
+                    "lat": "-37.88333",
+                    "lon": "145.48333"
+                },
+                {
+                    "name": "Croydon North",
+                    "lat": "-37.78333",
+                    "lon": "145.3"
+                },
+                {
+                    "name": "McCrae",
+                    "lat": "-38.34972",
+                    "lon": "144.92806"
+                },
+                {
+                    "name": "Mount Evelyn",
+                    "lat": "-37.78333",
+                    "lon": "145.38333"
+                },
+                {
+                    "name": "Officer",
+                    "lat": "-38.05916",
+                    "lon": "145.40947"
+                },
+                {
+                    "name": "Saint Helena",
+                    "lat": "-37.7",
+                    "lon": "145.13333"
+                },
+                {
+                    "name": "Kurunjang",
+                    "lat": "-37.67587",
+                    "lon": "144.5969"
+                },
+                {
+                    "name": "Soldiers Hill",
+                    "lat": "-37.54962",
+                    "lon": "143.85872"
+                },
+                {
+                    "name": "Wandana Heights",
+                    "lat": "-38.17577",
+                    "lon": "144.30387"
+                },
+                {
+                    "name": "Epping",
+                    "lat": "-37.65",
+                    "lon": "145.03333"
+                },
+                {
+                    "name": "Blairgowrie",
+                    "lat": "-38.36131",
+                    "lon": "144.77955"
+                },
+                {
+                    "name": "Altona",
+                    "lat": "-37.86964",
+                    "lon": "144.83036"
+                },
+                {
+                    "name": "Darch",
+                    "lat": "-37.75",
+                    "lon": "145.11667"
+                },
+                {
+                    "name": "Werribee South",
+                    "lat": "-37.9475",
+                    "lon": "144.71667"
+                },
+                {
+                    "name": "Cranbourne South",
+                    "lat": "-38.13502",
+                    "lon": "145.23958"
+                },
+                {
+                    "name": "Sandhurst",
+                    "lat": "-38.081",
+                    "lon": "145.20767"
+                },
+                {
+                    "name": "Altona Meadows",
+                    "lat": "-37.88413",
+                    "lon": "144.78367"
+                },
+                {
+                    "name": "Keilor",
+                    "lat": "-37.71667",
+                    "lon": "144.83333"
+                },
+                {
+                    "name": "Chirnside Park",
+                    "lat": "-37.7386",
+                    "lon": "145.31431"
+                },
+                {
+                    "name": "Launching Place",
+                    "lat": "-37.78058",
+                    "lon": "145.56834"
+                },
+                {
+                    "name": "Plenty",
+                    "lat": "-37.66667",
+                    "lon": "145.11667"
+                },
+                {
+                    "name": "Kilsyth",
+                    "lat": "-37.8",
+                    "lon": "145.31667"
+                },
+                {
+                    "name": "Noble Park North",
+                    "lat": "-37.94978",
+                    "lon": "145.19257"
+                },
+                {
+                    "name": "Travancore",
+                    "lat": "-37.78076",
+                    "lon": "144.93545"
+                },
+                {
+                    "name": "Hampton",
+                    "lat": "-37.95",
+                    "lon": "145"
+                },
+                {
+                    "name": "Balwyn",
+                    "lat": "-37.81667",
+                    "lon": "145.06667"
+                },
+                {
+                    "name": "North Warrandyte",
+                    "lat": "-37.72924",
+                    "lon": "145.21574"
+                },
+                {
+                    "name": "Balnarring",
+                    "lat": "-38.36667",
+                    "lon": "145.13333"
+                },
+                {
+                    "name": "Wattleglen",
+                    "lat": "-37.66667",
+                    "lon": "145.18333"
+                },
+                {
+                    "name": "Dromana",
+                    "lat": "-38.33375",
+                    "lon": "144.96458"
+                },
+                {
+                    "name": "Park Orchards",
+                    "lat": "-37.77688",
+                    "lon": "145.21463"
+                },
+                {
+                    "name": "Safety Beach",
+                    "lat": "-38.31535",
+                    "lon": "145.00027"
+                },
+                {
+                    "name": "Elwood",
+                    "lat": "-37.88214",
+                    "lon": "144.98215"
+                },
+                {
+                    "name": "Williamstown North",
+                    "lat": "-37.85515",
+                    "lon": "144.88259"
+                },
+                {
+                    "name": "Montrose",
+                    "lat": "-37.81667",
+                    "lon": "145.35"
+                }
+            ]
+        },
+        {
+            "search_string": "Western Australia, Australia",
+            "requested_place_count": 80,
+            "actual_place_count": 59,
+            "resolved_name": "Western Australia",
+            "bb_lat_1": -35.220428769999955,
+            "bb_lat_2": -15.720428769999955,
+            "bb_lon_1": 112.43074128300009,
+            "bb_lon_2": 131.9307412830001,
+            "places": [
+                {
+                    "name": "Jurien Bay",
+                    "lat": "-30.30591",
+                    "lon": "115.03825"
+                },
+                {
+                    "name": "Stoneville",
+                    "lat": "-30.86667",
+                    "lon": "121.76667"
+                },
+                {
+                    "name": "Two Rocks",
+                    "lat": "-31.49985",
+                    "lon": "115.58737"
+                },
+                {
+                    "name": "Derby",
+                    "lat": "-17.30295",
+                    "lon": "123.62864"
+                },
+                {
+                    "name": "Dunsborough",
+                    "lat": "-33.58333",
+                    "lon": "115.08333"
+                },
+                {
+                    "name": "Carnarvon",
+                    "lat": "-24.88073",
+                    "lon": "113.6594"
+                },
+                {
+                    "name": "Halls Creek",
+                    "lat": "-18.22485",
+                    "lon": "127.66647"
+                },
+                {
+                    "name": "Ravensthorpe",
+                    "lat": "-33.58303",
+                    "lon": "120.04688"
+                },
+                {
+                    "name": "Melville",
+                    "lat": "-28.18333",
+                    "lon": "116.73333"
+                },
+                {
+                    "name": "Esperance",
+                    "lat": "-33.86013",
+                    "lon": "121.88259"
+                },
+                {
+                    "name": "Newman",
+                    "lat": "-23.35644",
+                    "lon": "119.73553"
+                },
+                {
+                    "name": "Tom Price",
+                    "lat": "-22.6939",
+                    "lon": "117.7931"
+                },
+                {
+                    "name": "Port Hedland",
+                    "lat": "-20.31215",
+                    "lon": "118.61059"
+                },
+                {
+                    "name": "Merredin",
+                    "lat": "-31.48094",
+                    "lon": "118.27448"
+                },
+                {
+                    "name": "Busselton",
+                    "lat": "-33.65249",
+                    "lon": "115.3455"
+                },
+                {
+                    "name": "Broome",
+                    "lat": "-17.95538",
+                    "lon": "122.23922"
+                },
+                {
+                    "name": "Kununurra",
+                    "lat": "-15.77813",
+                    "lon": "128.74414"
+                },
+                {
+                    "name": "Kalbarri",
+                    "lat": "-27.7105",
+                    "lon": "114.16505"
+                },
+                {
+                    "name": "Dampier",
+                    "lat": "-20.66275",
+                    "lon": "116.71256"
+                },
+                {
+                    "name": "Kalgoorlie",
+                    "lat": "-30.74614",
+                    "lon": "121.4742"
+                },
+                {
+                    "name": "Moora",
+                    "lat": "-30.64003",
+                    "lon": "116.00365"
+                },
+                {
+                    "name": "Roebourne",
+                    "lat": "-20.77229",
+                    "lon": "117.14648"
+                },
+                {
+                    "name": "Nulsen",
+                    "lat": "-33.85696",
+                    "lon": "121.87499"
+                },
+                {
+                    "name": "Augusta",
+                    "lat": "-34.31566",
+                    "lon": "115.15922"
+                },
+                {
+                    "name": "Yallingup",
+                    "lat": "-33.64592",
+                    "lon": "115.03514"
+                },
+                {
+                    "name": "Manjimup",
+                    "lat": "-34.24122",
+                    "lon": "116.14564"
+                },
+                {
+                    "name": "Katanning",
+                    "lat": "-33.68787",
+                    "lon": "117.5584"
+                },
+                {
+                    "name": "Geraldton",
+                    "lat": "-28.77897",
+                    "lon": "114.61459"
+                },
+                {
+                    "name": "Nickol",
+                    "lat": "-20.74558",
+                    "lon": "116.7954"
+                },
+                {
+                    "name": "Serpentine",
+                    "lat": "-32.36051",
+                    "lon": "115.97723"
+                },
+                {
+                    "name": "Boulder",
+                    "lat": "-30.78204",
+                    "lon": "121.4912"
+                },
+                {
+                    "name": "Waggrakine",
+                    "lat": "-28.71883",
+                    "lon": "114.63924"
+                },
+                {
+                    "name": "Lower King",
+                    "lat": "-34.95778",
+                    "lon": "117.93833"
+                },
+                {
+                    "name": "Coogee",
+                    "lat": "-32.11934",
+                    "lon": "115.7665"
+                },
+                {
+                    "name": "Dongara",
+                    "lat": "-29.25818",
+                    "lon": "114.93276"
+                },
+                {
+                    "name": "Narrogin",
+                    "lat": "-32.93282",
+                    "lon": "117.17763"
+                },
+                {
+                    "name": "Northampton",
+                    "lat": "-28.34994",
+                    "lon": "114.63821"
+                },
+                {
+                    "name": "Cunderdin",
+                    "lat": "-31.65398",
+                    "lon": "117.23374"
+                },
+                {
+                    "name": "Wongan Hills",
+                    "lat": "-30.89294",
+                    "lon": "116.71925"
+                },
+                {
+                    "name": "Collie",
+                    "lat": "-33.36206",
+                    "lon": "116.15617"
+                },
+                {
+                    "name": "Kojonup",
+                    "lat": "-33.8305",
+                    "lon": "117.15946"
+                },
+                {
+                    "name": "Boyup Brook",
+                    "lat": "-33.83425",
+                    "lon": "116.38776"
+                },
+                {
+                    "name": "Beverley",
+                    "lat": "-32.10839",
+                    "lon": "116.92736"
+                },
+                {
+                    "name": "Margaret River",
+                    "lat": "-33.9536",
+                    "lon": "115.07391"
+                },
+                {
+                    "name": "Waroona",
+                    "lat": "-32.84323",
+                    "lon": "115.92201"
+                },
+                {
+                    "name": "Erskine",
+                    "lat": "-32.55717",
+                    "lon": "115.70657"
+                },
+                {
+                    "name": "Shoalwater",
+                    "lat": "-32.29088",
+                    "lon": "115.71101"
+                },
+                {
+                    "name": "Pinjarra",
+                    "lat": "-32.6298",
+                    "lon": "115.87351"
+                },
+                {
+                    "name": "Denmark",
+                    "lat": "-34.96067",
+                    "lon": "117.35321"
+                },
+                {
+                    "name": "Port Denison",
+                    "lat": "-29.28333",
+                    "lon": "114.91667"
+                },
+                {
+                    "name": "Mosman Park",
+                    "lat": "-32",
+                    "lon": "115.75"
+                },
+                {
+                    "name": "Pemberton",
+                    "lat": "-34.44311",
+                    "lon": "116.03689"
+                },
+                {
+                    "name": "Donnybrook",
+                    "lat": "-33.5713",
+                    "lon": "115.82446"
+                },
+                {
+                    "name": "Toodyay",
+                    "lat": "-31.54977",
+                    "lon": "116.46743"
+                },
+                {
+                    "name": "Wagin",
+                    "lat": "-33.30894",
+                    "lon": "117.34328"
+                },
+                {
+                    "name": "Grasmere",
+                    "lat": "-35.01806",
+                    "lon": "117.75556"
+                },
+                {
+                    "name": "Quindalup",
+                    "lat": "-33.6356",
+                    "lon": "115.14899"
+                },
+                {
+                    "name": "Kendenup",
+                    "lat": "-34.48213",
+                    "lon": "117.62533"
+                },
+                {
+                    "name": "Capel",
+                    "lat": "-33.55808",
+                    "lon": "115.56278"
+                }
+            ]
+        }
+    ]
+}
